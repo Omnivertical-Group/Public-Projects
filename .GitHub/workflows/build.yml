@@ -1,0 +1,20 @@
+name: DPC++ Build
+on:
+ push:
+ pull_request:
+jobs:
+ build:
+ runs-on: ubuntu-latest
+ container:
+ image: intel/oneapi-hpckit:latest
+ steps:
+ - uses: actions/checkout@v4
+ - name: Configure environment
+ run: |
+ source /opt/intel/oneapi/setvars.sh
+ - name: Build
+ run: |
+ icpx -fsycl main.cpp -o main
+ - name: Run
+ run: |
+ ./main
