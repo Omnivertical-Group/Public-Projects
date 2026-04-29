@@ -1,0 +1,14 @@
+{
+  "name": "oneAPI DevContainer",
+  "image": "intel/oneapi-hpckit:latest",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cmake-tools"
+      ]
+    }
+  },
+  "postCreateCommand": "bash .devcontainer/post-create.sh",
+  "remoteUser": "root"
+}
