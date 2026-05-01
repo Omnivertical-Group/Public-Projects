@@ -1,0 +1,120 @@
+CONTRIBUTOR LICENSE AGREEMENT (CLA)
+(Full Assignment + Broad Rights + Zero-Trust Contribution Model)
+
+Version 1.0
+This Contributor License Agreement (“Agreement”) is entered into by and between:
+Repository Owner (“Owner”): [Insert Legal Name or Entity of Owner]
+Contributor (“You”): The individual or entity submitting code, documentation, or other
+contributions (“Contribution”) to any repository owned or controlled by the Owner,
+including repositories hosted on GitHub or any successor platform.
+By submitting a Contribution, You agree to the terms of this Agreement.
+
+1. DEFINITIONS
+
+1.1 “Contribution” means any code, documentation, design, configuration, bug report,
+feature request, or other material submitted to the Owner’s repositories.
+
+1.2 “Submission” means any form of delivery of a Contribution, including pull requests,
+commits, issues, patches, or emails.
+
+1.3 “Owner Materials” means all existing and future materials in repositories controlled
+by the Owner.
+
+2. ZERO-TRUST CONTRIBUTION MODEL
+
+2.1 This Agreement operates under a Zero-Trust Contribution Model, meaning:
+No Contribution is accepted, trusted, or integrated by default.
+No rights, permissions, or licenses are granted by implication.
+All Contributions are treated as untrusted until explicitly accepted by the Owner.
+
+2.2 Submission of a Contribution does not guarantee acceptance, review, or inclusion.
+
+2.3 The Owner may reject or discard any Contribution at their sole discretion.
+
+3. ASSIGNMENT OF RIGHTS
+
+3.1 Full Transfer of Ownership
+To the maximum extent permitted by law, You hereby irrevocably and permanently assign,
+transfer, and convey to the Owner all right, title, and interest worldwide in and to the
+Contribution, including:
+Copyright
+Patent rights (if applicable)
+Trade secrets
+Database rights
+Moral rights (to the extent transferable)
+Any other intellectual property rights
+
+3.2 This assignment includes all past, present, and future rights arising from the
+Contribution.
+
+3.3 If any portion of this assignment is deemed invalid under applicable law, You instead
+grant the Owner an exclusive, perpetual, irrevocable, worldwide, royalty-free, transferable,
+sublicensable license with equivalent scope.
+
+4. BROAD LICENSE BACK TO OWNER
+To the extent any rights are not fully assigned under Section 3, You grant the Owner:
+A perpetual
+Irrevocable
+Worldwide
+Royalty-free
+Fully sublicensable
+Transferable
+license to:
+a. Use, reproduce, modify, adapt, and distribute the Contribution
+b. Incorporate the Contribution into proprietary or open-source works
+c. Create derivative works
+d. Commercially exploit the Contribution in any form
+e. Relicense the Contribution under any terms the Owner chooses
+
+5. CONTRIBUTOR REPRESENTATIONS
+You represent and warrant that:
+
+5.1 You have the legal right to make the Contribution.
+
+5.2 The Contribution is your original work or you have obtained all necessary permissions.
+
+5.3 The Contribution does not infringe any third-party rights.
+
+5.4 You are not transferring any rights that are subject to restrictions preventing
+assignment to the Owner.
+6. NO RETAINED RIGHTS BY CONTRIBUTOR
+
+6.1 Except for moral rights that cannot be waived under applicable law, You retain no
+ownership interest in the Contribution once submitted.
+
+6.2 You waive any right to:
+Compensation
+Attribution (unless the Owner chooses otherwise)
+Approval of use, modification, or distribution
+
+7. RELICENSING AND COMMERCIAL USE
+
+7.1 The Owner may:
+Relicense Contributions at any time, under any license (including proprietary licenses)
+Sell, distribute, or commercialize Contributions
+Incorporate Contributions into closed-source or proprietary systems
+Use Contributions in SaaS, enterprise, or commercial products
+
+7.2 No royalties or compensation shall be owed to the Contributor.
+
+8. TRADEMARKS & SERVICE MARKS
+
+8.1 All trademarks, service marks, branding, and project identity associated with the
+repositories are exclusively owned and controlled by the Owner.
+
+8.2 No license is granted to use such marks except with explicit written permission.
+
+9. CONTRIBUTOR ACKNOWLEDGEMENT
+By submitting a Contribution, You acknowledge and agree that:
+You are voluntarily transferring rights under this Agreement
+You understand this Agreement is legally binding
+You understand this Agreement may be enforced globally
+You are not relying on any external representations
+10. GOVERNING LAW
+
+This Agreement shall be governed by and interpreted under the laws of the jurisdiction
+chosen by the Owner, without regard to conflict of law principles.
+
+11. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties regarding
+Contributions and supersedes any prior understandings.
